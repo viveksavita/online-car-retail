@@ -1,10 +1,10 @@
-<<<<<<HEAD
 Online car retail data pipeline repository- This project contains the data pipeline frame work and modules to transform the source data in JSON format to analytics. This repository explains the key feature and description of the structure of pipleline
 
 # Environment Set up
 * Download and install conda if you don’t have it already.
-    * Use the supplied requirements file to create a new environment, or
-    * conda create -n [envname] "python=3.8" pandas pyarrow pytest numpy matplotlib seaborn dask 
+    * Use the supplied requirements file to create a new environment, 
+    conda create --name <name of the environment> --file requirements.txt 
+    * Or conda create -n [envname] "python=3.8" pandas pyarrow pytest numpy matplotlib seaborn dask 
 
 ## Setup
 
