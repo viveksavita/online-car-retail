@@ -1,0 +1,61 @@
+2022-06-21 15:38:24,872 INFO: Initializing the path variables from the config file
+2022-06-21 15:38:25,468 ---------------------------------------
+2022-06-21 15:38:25,468 INFO: Data ingestion step is started 
+2022-06-21 15:38:25,469 File reading intialized
+2022-06-21 15:38:25,480 INFO: File ingestion completed :SalesData_2005.json| Record ingested :264
+2022-06-21 15:38:25,491 INFO: File ingestion completed :SalesData_2004.json| Record ingested :723
+2022-06-21 15:38:25,499 INFO: File ingestion completed :SalesData_2003.json| Record ingested :532
+2022-06-21 15:38:25,508 INFO: Final dataset is created with row count of 1519
+2022-06-21 15:38:25,508 INFO: Data ingestion step is completed 
+2022-06-21 15:38:25,508 INFO: Data pre-processing and partitioning step is started
+2022-06-21 15:38:25,675 INFO: Data pre-processing and partitioning step is completed
+2022-06-21 15:38:25,675 INFO: Analysis and reporting step is started
+2022-06-21 15:38:25,837 INFO: cancelled and on hold orders report is generate in the image folder
+2022-06-21 15:38:25,900 INFO: Product line analysis  is generate in the image folder
+2022-06-21 17:08:16,764 INFO: Initializing the path variables from the config file
+2022-06-21 17:08:50,926 INFO: Initializing the path variables from the config file
+2022-06-21 17:08:51,711 ---------------------------------------
+2022-06-21 17:08:51,711 INFO: Data ingestion step is started 
+2022-06-21 17:08:51,712 File reading intialized
+2022-06-21 17:08:51,722 INFO: File ingestion completed :SalesData_2005.json| Record ingested :264
+2022-06-21 17:08:51,733 INFO: File ingestion completed :SalesData_2004.json| Record ingested :723
+2022-06-21 17:08:51,742 INFO: File ingestion completed :SalesData_2003.json| Record ingested :532
+2022-06-21 17:08:51,751 INFO: Final dataset is created with row count of 1519
+2022-06-21 17:08:51,751 INFO: Data ingestion step is completed 
+2022-06-21 17:08:51,751 INFO: Data pre-processing and partitioning step is started
+2022-06-21 17:08:51,935 INFO: Data pre-processing and partitioning step is completed
+2022-06-21 17:08:51,935 INFO: Analysis and reporting step is started
+2022-06-21 17:08:52,138 INFO: cancelled and on hold orders report is generate in the image folder
+2022-06-21 17:08:52,196 INFO: Product line analysis  is generate in the image folder
+2022-06-21 17:08:52,258 INFO: Reveiwing the discounted on the selected productline
+2022-06-21 17:08:52,259 ERROR: Error occured in reviewing the discount logic function
+2022-06-21 17:10:13,743 INFO: Initializing the path variables from the config file
+2022-06-21 17:10:14,613 ---------------------------------------
+2022-06-21 17:10:14,613 INFO: Data ingestion step is started 
+2022-06-21 17:10:14,613 File reading intialized
+2022-06-21 17:10:14,619 INFO: File ingestion completed :SalesData_2005.json| Record ingested :264
+2022-06-21 17:10:14,631 INFO: File ingestion completed :SalesData_2004.json| Record ingested :723
+2022-06-21 17:10:14,639 INFO: File ingestion completed :SalesData_2003.json| Record ingested :532
+2022-06-21 17:10:14,647 INFO: Final dataset is created with row count of 1519
+2022-06-21 17:10:14,647 INFO: Data ingestion step is completed 
+2022-06-21 17:10:14,647 INFO: Data pre-processing and partitioning step is started
+2022-06-21 17:10:14,789 INFO: Data pre-processing and partitioning step is completed
+2022-06-21 17:10:14,789 INFO: Analysis and reporting step is started
+2022-06-21 17:10:14,916 INFO: cancelled and on hold orders report is generate in the image folder
+2022-06-21 17:10:14,972 INFO: Product line analysis  is generate in the image folder
+2022-06-21 17:10:15,024 INFO: Reveiwing the discounted on the selected productline
+2022-06-21 17:11:52,204 INFO: Initializing the path variables from the config file
+2022-06-21 17:11:53,078 ---------------------------------------
+2022-06-21 17:11:53,078 INFO: Data ingestion step is started 
+2022-06-21 17:11:53,079 File reading intialized
+2022-06-21 17:11:53,085 INFO: File ingestion completed :SalesData_2005.json| Record ingested :264
+2022-06-21 17:11:53,097 INFO: File ingestion completed :SalesData_2004.json| Record ingested :723
+2022-06-21 17:11:53,106 INFO: File ingestion completed :SalesData_2003.json| Record ingested :532
+2022-06-21 17:11:53,114 INFO: Final dataset is created with row count of 1519
+2022-06-21 17:11:53,115 INFO: Data ingestion step is completed 
+2022-06-21 17:11:53,115 INFO: Data pre-processing and partitioning step is started
+2022-06-21 17:11:53,266 INFO: Data pre-processing and partitioning step is completed
+2022-06-21 17:11:53,266 INFO: Analysis and reporting step is started
+2022-06-21 17:11:53,396 INFO: cancelled and on hold orders report is generate in the image folder
+2022-06-21 17:11:53,453 INFO: Product line analysis  is generate in the image folder
+2022-06-21 17:11:53,506 INFO: Reveiwing the discounted on the selected productline

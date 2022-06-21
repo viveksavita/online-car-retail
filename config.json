@@ -1,0 +1,13 @@
+{ "input_folder_path": "data", 
+    "output_folder_path": "ingesteddata", 
+    "test_path": "testsetup", 
+    "prod_deployment_path": "production_deployment",
+    "parquet_partition_on":"ORDERDATE",
+    "parquet_partition_path":"partition",
+    "column_order": ["ORDERNUMBER","PRODUCTCODE","QUANTITYORDERED",
+        "PRICEEACH","SALES","ORDERDATE","STATUS","PRODUCTLINE","MSRP"],
+    "meta_columns" :["ORDERNUMBER", "PRODUCTCODE"],
+    "image_analysis" :"image",
+    "report_data":"reporting data",
+    "review_prod_line":["Motorcycles", "Classic Cars", "Vintage Cars", "Trucks and Buses"]
+}
